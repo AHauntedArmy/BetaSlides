@@ -8,6 +8,6 @@ namespace BetaSlides
     {
         public const string GUID = "com.ahauntedarmy.gorillatag.betaslides";
         public const string Name = "BetaSlides";
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
     }
 }

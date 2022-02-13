@@ -47,7 +47,7 @@ namespace BetaSlides
         {
             /* Code here runs after the game initializes (i.e. GorillaLocomotion.Player.Instance != null) */
 
-            slideParent = GameObject.Find("Level/Forest/TempSlides");
+            slideParent = GameObject.Find("Level/forest/TempSlides");
         }
 
         /* This attribute tells Utilla to call this method when a modded room is joined */
